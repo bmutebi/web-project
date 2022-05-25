@@ -217,7 +217,7 @@ a {
 }
 
 .btn--primary {
-  background: var(--color-primary);
+  background: var(--color-headings);
   color: #fff;
 }
 
